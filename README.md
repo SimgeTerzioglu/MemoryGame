@@ -32,16 +32,16 @@
   
 ***  
 
-# Easy Mode (Kolay Mod) Oynanış (gif):
+# Easy Mode (Kolay Mod) Oynanış:
 ![](https://github.com/SimgeTerzioglu/MemoryGame/blob/master/easymodeoynanis.gif)
 
-# Medium Mode (Orta Mod) Oynanış (gif):
+# Medium Mode (Orta Mod) Oynanış:
 ![](https://github.com/SimgeTerzioglu/MemoryGame/blob/master/mediummodeoynanis.gif)
 
-# Hard Mode(Zor Mod) Oynanış (gif):
+# Hard Mode(Zor Mod) Oynanış:
 ![](https://github.com/SimgeTerzioglu/MemoryGame/blob/master/hardmodeoynanis.gif)
 
-# Tüm Eşleşmeler Tamamlanamayıp Süre Bittiğinde Gerçekleşen Eylemler (gif):
+# Tüm Eşleşmeler Tamamlanamayıp Süre Bittiğinde Gerçekleşen Eylemler:
 ![](https://github.com/SimgeTerzioglu/MemoryGame/blob/master/surebittiginde.gif)
 
 

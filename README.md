@@ -39,7 +39,7 @@
 ![](https://github.com/SimgeTerzioglu/MemoryGame/blob/master/mediummodeoynanis.gif)
 
 # Hard Mode(Zor Mod) Oynanış:
-![](https://github.com/SimgeTerzioglu/MemoryGame/blob/master/hardmodeoynanis.gif)
+![](https://github.com/SimgeTerzioglu/MemoryGame/blob/master/HardModeOynanis.gif)
 
 # Tüm Eşleşmeler Tamamlanamayıp Süre Bittiğinde Gerçekleşen Eylemler:
 ![](https://github.com/SimgeTerzioglu/MemoryGame/blob/master/surebittiginde.gif)

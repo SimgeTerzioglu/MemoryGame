@@ -43,12 +43,3 @@
 
 # Tüm Eşleşmeler Tamamlanamayıp Süre Bittiğinde Gerçekleşen Eylemler:
 ![](https://github.com/SimgeTerzioglu/MemoryGame/blob/master/surebittiginde.gif)
-
-***
-
-# Hazırlayanlar: 
-* Simge Terzioğlu - 1190505072
-* Zehra Akgül - 1190505069
-* Melike Sağır - 1190505019
-* Aylin Işık - 5190505044
-
